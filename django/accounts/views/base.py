@@ -9,7 +9,7 @@ class Base(APIView):
     def get_enterprise_user(self, user_id):
         enterprise = {
             'is_owner': False,
-            'permission': [],
+            'permissions': [],
         }
 
         enterprise['is_owner'] = Enterprise.objects.filter(user_id=user_id).exists()
