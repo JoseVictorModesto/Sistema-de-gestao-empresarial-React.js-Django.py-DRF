@@ -1,2 +1,2 @@
-﻿# Sistema-de-gestão-finaceira-React.js-Django.py-DRF
+﻿# Sistema-de-gestão-empresarial-React.js-Django.py-DRF
 
